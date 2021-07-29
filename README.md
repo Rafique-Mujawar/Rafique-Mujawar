@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Rafique-Mujawar
 - 👀 I’m interested in Android development
-- 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on Android Mobile, Automotive and Wearable applications
 - 📫 How to reach me : rafique.mujawar32@gmail.com
 
